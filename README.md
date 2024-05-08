@@ -7,4 +7,4 @@
 ### Feature yang akan dikerjakan
 - Link Social Media Linkedin
 - Feature Kotak Saran
-- Fitur BLog
+- Fitur Blog
