@@ -1,5 +1,7 @@
 # Root Website KMTI
 
+[Preview](https://kmti.vercel.app/)
+
 ### Feature yang blm berjalan
 - Kotak Saran
 - Blog
